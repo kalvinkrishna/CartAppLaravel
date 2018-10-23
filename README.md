@@ -1,1 +1,4 @@
 # CartAppLaravel
+
+
+CITIES, COUNTRIES, STATE DB ON FOLDER DB
